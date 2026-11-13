@@ -1,36 +1,34 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Peer-reviewed articles, proceedings and chapters
 
-{% include base_path %}
+The following items have identifiable publication records or publisher links. The list includes earlier data-engineering work as well as recent research in quantum communications.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+{% for post in sorted_pubs %}
+### [{{ post.title }}]({{ post.paperurl }})
 
+**{{ post.venue }}** · {{ post.date | date: "%Y" }}
 
+{{ post.excerpt }}
 
+{% endfor %}
+
+## PhD thesis
+
+**Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas** — Universidad de Salamanca, 2026. Supervisor: Ángel M. Martín del Rey. *Sobresaliente cum laude.*
+
+## Research manuscripts and ongoing work
+
+The following items are identified **separately from peer-reviewed publications**. Their presence here does not imply journal acceptance.
+
+- **Post-Design Structural Validation of Geographically Realistic QKD Networks:** structural analysis and resilience assessment of mainland Spain and infrastructure-derived models (manuscript).
+- **From Optoelectronic Parameters to Network-Level Performance: A Global Sensitivity Analysis of Geographically Realistic Quantum Key Distribution Networks:** global sensitivity analysis (manuscript in preparation).
+- **SKR-aware routing and resilience of QKD services:** work in progress on key-rate constraints and fault-aware decisions.
+
+For a complete and current bibliographic record, see [ORCID](https://orcid.org/0000-0002-9472-5613) and the [Universidad de Valladolid research portal](https://portaldelaciencia.uva.es/investigadores/2508769/detalle).

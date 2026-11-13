@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Iván García Cobo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://ivgarci.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Iván García Cobo"
+description              : &description "Academic and professional website of Iván García Cobo | Quantum Key Distribution, complex networks, and IT systems"
+url                      : "https://ivangarciacobo.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivgarci/ivgarci.github.io"
 
@@ -23,12 +23,12 @@ repository               : "ivgarci/ivgarci.github.io"
 author:
   # Biographic information
   avatar           : "Ivan-Garcia-Cobo.jpg"
-  name             : "Iván García-Cobo"
+  name             : "Iván García Cobo"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Spain"
-  employer         : "Universidad de Salamanca"
-  uri              : # URL
+  bio              : "PhD in Computer Engineering | Adjunct Lecturer and IT Systems Administrator | QKD researcher"
+  location         : "Valladolid, Spain"
+  employer         : "Universidad de Valladolid"
+  uri              : "https://ivangarciacobo.com"
   email            : "ivangarciacobo (at) usal (dot) es" 
 
   # Academic websites
@@ -88,7 +88,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -163,6 +163,23 @@ exclude:
   - .asset-cache
   - .bundle
   - .github
+  # Hide unmodified Academic Pages demo content from the published site.
+  - _drafts
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/portfolio.html
+  - _pages/talks.html
+  - _pages/talkmap.html
+  - _pages/year-archive.html
+  - _pages/terms.md
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js

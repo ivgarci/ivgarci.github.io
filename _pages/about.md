@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: ""
+excerpt: "Iván García Cobo — PhD, QKD researcher, university lecturer and IT systems engineer at Universidad de Valladolid."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,31 +10,31 @@ redirect_from:
 
 # Iván García Cobo
 
-**PhD in Computer Engineering · University lecturer · Quantum Key Distribution researcher · IT systems professional**
+**PhD in Computer Engineering · QKD Network Researcher · University Lecturer · Systems Engineer**
 
-I am a computer engineer and researcher based in Valladolid, Spain. My work combines **research in quantum-secure communication networks** with university teaching and professional experience in systems engineering and IT infrastructure.
+I am a computer engineer based in Valladolid, Spain. My professional interests bring together three complementary fields: **quantum-secure networking research**, **university teaching** and **IT infrastructure engineering**.
 
-I received my **PhD in Computer Engineering from the Universidad de Salamanca in November 2026**, with the distinction *Sobresaliente cum laude*. My dissertation, supervised by **Ángel M. Martín del Rey**, is titled *Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas* (*Generation and validation of large-scale QKD networks under physical and technological constraints*).
+I earned my **PhD in Computer Engineering at the Universidad de Salamanca in 2026** (*Sobresaliente cum laude*). My dissertation, supervised by **Ángel M. Martín del Rey**, examines the generation, analysis and structural validation of large-scale **Quantum Key Distribution (QKD)** networks under physical and technological constraints.
 
-I currently work at the **Universidad de Valladolid (UVa)** in two roles: as an adjunct lecturer in the Department of Computer Science, in the Computer Science and Artificial Intelligence area, and as an IT professional in the university's Information and Communication Technologies Service (**STIC**).
+At the **Universidad de Valladolid (UVa)** I hold two positions:
 
-## Research focus
+- **Profesor Asociado** (part-time university lecturer) in the **Departamento de Informática**, area of **Ciencia de la Computación e Inteligencia Artificial**, since 2020.
+- **Técnico de Gestión de Sistemas e Informática** at the **Servicio de Tecnologías de la Información y las Comunicaciones (STIC)**, since May 2026.
 
-My research addresses the design, validation and operation of geographically realistic **Quantum Key Distribution (QKD)** networks: clustering and repeater selection, graph topology, structural robustness, key-rate-aware routing and the constraints imposed by optical communication technologies.
+My previous career includes DevOps, systems engineering, telecommunications and enterprise technology, with experience in banking and insurance as well as projects related to Telefónica.
 
-My doctoral research considered regional and national-scale case studies, including Castilla y León, mainland Spain and railway-related transport corridors. The models examine *candidate or designed* QKD infrastructures; they must not be confused with claims of an already deployed national quantum-fibre network.
+## Explore
 
-[Research](/research/){: .btn .btn--primary} [Publications](/publications/){: .btn} [Curriculum vitae](/cv/){: .btn}
+- [Research](/research/) — QKD network design, complex networks, resilience and routing.
+- [Publications](/publications/) — peer-reviewed journal papers and book chapters, with DOI links.
+- [Teaching](/teaching/) — university courses and supervised student projects.
+- [Projects](/projects/) — publicly available research code and selected interests.
+- [Curriculum vitae](/cv/) — education, university appointments and professional experience.
 
-## Academic and technical background
+## Contact and profiles
 
-Before and alongside academic work, I developed an extensive professional career spanning the banking and insurance sectors, Linux and enterprise infrastructure, systems operations, monitoring, cybersecurity and software development. This combination of practical engineering and academic research informs my current interests in reliable, resilient networked systems.
+**Email:** [ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es)
 
-## Find me online
+[ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci) · [UVa research profile](https://portaldelaciencia.uva.es/investigadores/2508769/detalle)
 
-- [ORCID: 0000-0002-9472-5613](https://orcid.org/0000-0002-9472-5613)
-- [GitHub: ivgarci](https://github.com/ivgarci)
-- [LinkedIn](https://www.linkedin.com/in/garciacobo/)
-- [University of Valladolid research portal](https://portaldelaciencia.uva.es/investigadores/2508769/detalle)
-
-*Personal website. Institutional affiliations are stated for identification; views expressed here are my own.*
+*This is an independent personal website. Institutional affiliations are provided for identification and do not imply institutional endorsement.*

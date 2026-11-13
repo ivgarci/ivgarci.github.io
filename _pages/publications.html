@@ -1,34 +1,53 @@
 ---
-layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed articles, proceedings and chapters
+This page distinguishes **peer-reviewed publications** from **unpublished research manuscripts**. The published bibliography is based on my FECYT CVN (13 November 2026); DOI links lead to publishers or persistent records.
 
-The following items have identifiable publication records or publisher links. The list includes earlier data-engineering work as well as recent research in quantum communications.
+## Journal articles
 
-{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
-{% for post in sorted_pubs %}
-### [{{ post.title }}]({{ post.paperurl }})
+{% assign journals = site.publications | where: "category", "journals" | sort: "date" | reverse %}
+{% for paper in journals %}
+### {{ paper.title }}
 
-**{{ post.venue }}** · {{ post.date | date: "%Y" }}
+**{{ paper.authors }}**  
+*{{ paper.venue }}* ({{ paper.year }}).  
+[DOI: {{ paper.doi }}](https://doi.org/{{ paper.doi }})
 
-{{ post.excerpt }}
+{{ paper.excerpt }}
 
 {% endfor %}
 
-## PhD thesis
+## Book chapters
 
-**Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas** — Universidad de Salamanca, 2026. Supervisor: Ángel M. Martín del Rey. *Sobresaliente cum laude.*
+{% assign chapters = site.publications | where: "category", "chapters" | sort: "date" | reverse %}
+{% for paper in chapters %}
+### {{ paper.title }}
 
-## Research manuscripts and ongoing work
+**{{ paper.authors }}**  
+*{{ paper.venue }}* ({{ paper.year }}).  
+[DOI: {{ paper.doi }}](https://doi.org/{{ paper.doi }})
 
-The following items are identified **separately from peer-reviewed publications**. Their presence here does not imply journal acceptance.
+{{ paper.excerpt }}
 
-- **Post-Design Structural Validation of Geographically Realistic QKD Networks:** structural analysis and resilience assessment of mainland Spain and infrastructure-derived models (manuscript).
-- **From Optoelectronic Parameters to Network-Level Performance: A Global Sensitivity Analysis of Geographically Realistic Quantum Key Distribution Networks:** global sensitivity analysis (manuscript in preparation).
-- **SKR-aware routing and resilience of QKD services:** work in progress on key-rate constraints and fault-aware decisions.
+{% endfor %}
 
-For a complete and current bibliographic record, see [ORCID](https://orcid.org/0000-0002-9472-5613) and the [Universidad de Valladolid research portal](https://portaldelaciencia.uva.es/investigadores/2508769/detalle).
+## Doctoral thesis
+
+*Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas*. **Universidad de Salamanca**, 2026. Supervisor: Ángel M. Martín del Rey. Distinction: *Sobresaliente cum laude*.
+
+## Unpublished manuscripts and ongoing research
+
+The following are **not presented as published or accepted articles**:
+
+- **Post-design structural validation of geographically realistic QKD networks** — ongoing manuscript on network connectivity, robustness and post-design checks.
+- **From Optoelectronic Parameters to Network-Level Performance: A Global Sensitivity Analysis of Geographically Realistic Quantum Key Distribution Networks** — manuscript in preparation.
+- **SKR-aware QKD routing and service resilience** — ongoing research.
+
+## Academic identifiers
+
+[ORCID](https://orcid.org/0000-0002-9472-5613) · **Scopus Author ID:** 57219474099 · **ResearcherID:** AAO-1736-2021
+
+For further bibliographic details, refer to my [UVa research profile](https://portaldelaciencia.uva.es/investigadores/2508769/detalle).

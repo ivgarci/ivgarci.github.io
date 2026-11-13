@@ -12,7 +12,7 @@ site_theme               : "air"
 title                    : "Iván García Cobo"
 title_separator          : "-"
 name                     : &name "Iván García Cobo"
-description              : &description "Academic and professional website of Iván García Cobo | Quantum Key Distribution, complex networks, and IT systems"
+description              : &description "Iván García Cobo | PhD in Computer Engineering, QKD networks, teaching and systems engineering"
 url                      : "https://ivangarciacobo.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivgarci/ivgarci.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "Ivan-Garcia-Cobo.jpg"
   name             : "Iván García Cobo"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Computer Engineering · University lecturer · QKD researcher · IT systems professional"
+  bio              : "PhD · QKD network researcher · University lecturer · Systems engineer"
   location         : "Valladolid, Spain"
   employer         : "Universidad de Valladolid"
   uri              : "https://ivangarciacobo.com"
-  email            : "ivan.garcia.cobo@uva.es" 
+  email            : "ivan.garcia.cobo@uva.es"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "garciacobo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,8 +79,8 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Peer-reviewed journal articles'    
+  journals:
+    title: 'Journal articles'    
   conferences:
     title: 'Conference papers'
   chapters:
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -147,6 +147,7 @@ social:
   links:
     - "https://github.com/ivgarci"
     - "https://orcid.org/0000-0002-9472-5613"
+    - "https://www.linkedin.com/in/garciacobo/"
 
 
 # Analytics
@@ -180,6 +181,9 @@ exclude:
   - _pages/talks.html
   - _pages/talkmap.html
   - _pages/portfolio.html
+  - _pages/page-archive.html
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
@@ -254,8 +258,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -271,8 +275,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -280,8 +284,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -289,7 +293,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -298,7 +302,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS

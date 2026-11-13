@@ -4,53 +4,46 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary area of research is **Quantum Key Distribution (QKD) networking**, with a focus on how physics-informed network models can support the design and validation of realistic future infrastructures.
-
-## Research areas
-
-### Large-scale QKD network design
-
-Applying clustering, graph algorithms and repeater-placement strategies to geographically distributed networks while accounting for physical and technological link constraints.
-
-### Graph-based validation and robustness
-
-Evaluating the structural behaviour of designed QKD networks through connected components, bridges, articulation points, centrality, community structure, k-core analysis, efficiency and resilience under failures or targeted attacks.
-
-### Quantum-secure networking and routing
-
-Studying routing decisions driven by secret-key rate (SKR), resource limitations and service continuity, including hybrid architectures and future integration with conventional networks.
-
-### Territorial and infrastructure-aware modelling
-
-Exploring design and evaluation scenarios across Castilla y León, mainland Spain and infrastructure-based graphs such as ADIF-derived railway topologies. These are **research models, not assertions of a physically deployed national QKD network**.
+My research focuses on the **design and evaluation of geographically realistic Quantum Key Distribution (QKD) networks**, combining graph theory, network science and models of physical communication constraints.
 
 ## PhD thesis
 
 **Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas**
 
+- **Degree:** PhD in Computer Engineering
 - **Institution:** Universidad de Salamanca
-- **Year:** 2026
+- **Defence:** 5 November 2026
 - **Supervisor:** Ángel M. Martín del Rey
-- **Result:** *Sobresaliente cum laude*
-- **Scope:** generation, analysis and post-design validation of geographically realistic QKD networks
+- **Distinction:** *Sobresaliente cum laude*
 
-The thesis studies how network structure, optical constraints and technological choices jointly affect connectivity, efficiency and resilience. The case studies include 100-node Castilla y León and 950-node peninsular Spain models, as well as railway-infrastructure-derived networks.
+The dissertation investigates how to generate and validate large-scale QKD network designs that account for practical constraints such as geographical distances, optical components and trusted relay nodes.
 
-## Current lines of work
+The principal case studies encompass **Castilla y León (100 nodes)**, **mainland Spain (950 nodes)** and a railway-network graph derived from open **ADIF** data.
 
-- Post-design structural validation for large-scale QKD networks.
-- Community detection and territorial governance for EuroQCI-related planning.
-- Global sensitivity analysis linking optoelectronic parameters to network-level performance.
-- SKR-aware routing, service resilience and fault-aware architectures.
+**Important methodological distinction:** these are designed network topologies and infrastructure-derived graph models. They do **not** demonstrate that a nationwide QKD fibre deployment exists.
 
-See [publications and research manuscripts](/publications/) for items already published and those still under preparation.
+## Current research interests
 
-## Selected code repositories
+### Network design and optimisation
 
-- [QKD repositories on GitHub](https://github.com/ivgarci?tab=repositories)
-- [QKD-SKR-Routing](https://github.com/ivgarci/QKD-SKR-Routing)
-- [QKD-Communities](https://github.com/ivgarci/QKD-Communities)
-- [ADIF-QKD](https://github.com/ivgarci/ADIF-QKD)
-- [qkd-optoelectronics-sensitivity](https://github.com/ivgarci/qkd-optoelectronics-sensitivity)
+Territorial clustering, k-medoids/PAM, placement of trusted relays, link feasibility and physical constraints in QKD topology generation.
 
-*Code and datasets may vary in completeness or release status. Consult each repository for documentation and reuse conditions.*
+### Structural validation and resilience
+
+Connectivity, network efficiency, communities, centrality, bridges, articulation points, k-core structure, vulnerability to random failures and targeted attacks.
+
+### QKD routing and network-level performance
+
+Secret-key-rate-aware routing, bottleneck optimisation, resilience of QKD services and sensitivity analysis of optoelectronic parameters.
+
+### EuroQCI and territorial governance
+
+Relationships between network community structure, administrative divisions and the planning of future European quantum communication infrastructures.
+
+## Open research code
+
+The publicly available **[qkd-net-tools — QKD Network Analysis Toolkit](https://github.com/ivgarci/qkd-net-tools)** includes Python and R scripts, datasets and supporting analyses for the thesis case studies. It covers topology generation, network metrics, resilience, routing and geographically grounded graph analysis.
+
+**[View the public research repository](https://github.com/ivgarci/qkd-net-tools)**
+
+See [Publications](/publications/) for published work and a separately identified list of manuscripts under development.

@@ -1,27 +1,29 @@
 ---
-layout: single
-title: "Projects"
+title: "Projects & software"
 permalink: /projects/
 author_profile: true
 ---
 
-## Research software and computational methods
+## Public research software
 
-I maintain and contribute to several GitHub repositories supporting reproducible analysis of **Quantum Key Distribution networks**.
+### [qkd-net-tools — QKD Network Analysis Toolkit](https://github.com/ivgarci/qkd-net-tools)
 
-- **[QKD-Communities](https://github.com/ivgarci/QKD-Communities):** community structure and QKD network analysis.
-- **[QKD-SKR-Routing](https://github.com/ivgarci/QKD-SKR-Routing):** key-rate-aware routing experiments.
-- **[ADIF-QKD](https://github.com/ivgarci/ADIF-QKD):** infrastructure-derived graph modelling.
-- **[QKD-PAM-Generation](https://github.com/ivgarci/QKD-PAM-Generation):** clustering-based network generation.
-- **[qkd-optoelectronics-sensitivity](https://github.com/ivgarci/qkd-optoelectronics-sensitivity):** optoelectronic parameter sensitivity research.
-- **[Explore all repositories](https://github.com/ivgarci?tab=repositories)**.
+This is the main **public source-code repository** supporting my doctoral research. It combines Python and R implementations and datasets relating to:
 
-## Interdisciplinary research proposals
+- Generation of geographically realistic QKD network topologies.
+- Graph analysis, community detection and structural metrics.
+- Robustness analysis under failures and targeted attacks.
+- QKD secret-key-rate modelling and routing experiments.
+- Case studies covering Castilla y León, mainland Spain and ADIF-derived railway graphs.
 
-I am involved in the preparation of collaborative research proposals spanning **natural-language processing, multilingual parallel corpora and information retrieval**, as well as **air-quality and exposure modelling**. These are prospective activities subject to the corresponding project funding and administrative approvals, rather than claims of funded project participation.
+The code evaluates network models and design scenarios. It does not imply the existence of a deployed national QKD network or operational availability of dark fibre.
 
-## Systems engineering
+[Browse code and documentation](https://github.com/ivgarci/qkd-net-tools)
 
-My professional background also encompasses institutional infrastructure, monitoring, virtualisation, Linux systems administration, security and service operations.
+## Additional interests
 
-*Project titles and source-code repositories do not automatically imply production-ready software or deployed infrastructure.*
+My professional and research interests also include Linux and enterprise systems, monitoring and observability, cybersecurity, software engineering, scientific computing and AI-supported information retrieval.
+
+I participate in the **preparation of interdisciplinary research proposals** involving multilingual corpora and information retrieval, as well as urban air-quality and exposure analysis. These activities are described as proposals and **not** as awarded or funded projects.
+
+For work involving unreleased software or private research data, I provide descriptions only, not links to inaccessible repositories.

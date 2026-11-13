@@ -1,64 +1,52 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+# Iván García Cobo
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Computer engineer · PhD · University lecturer · IT systems professional**
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Valladolid, Spain · [ORCID](https://orcid.org/0000-0002-9472-5613) · [GitHub](https://github.com/ivgarci) · [LinkedIn](https://www.linkedin.com/in/garciacobo/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic qualifications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **PhD in Computer Engineering**, Universidad de Salamanca, 2026. *Sobresaliente cum laude.* Thesis: *Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas*. Supervisor: Ángel M. Martín del Rey.
+- **Master's degree in Cybersecurity**.
+- **Bachelor's degree in Computer Engineering**.
+- **Higher vocational qualification in Computer Systems Administration**.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## University appointments
+
+- **Adjunct Lecturer (Profesor Asociado)**, Department of Computer Science, Universidad de Valladolid. Academic area: Computer Science and Artificial Intelligence.
+- **IT Systems Professional (PTGAS / STIC)**, Information and Communication Technologies Service, Universidad de Valladolid.
+- Previous higher-education teaching experience includes Universidad Alfonso X el Sabio and Universidad Isabel I.
+
+## Professional experience
+
+My career spans university IT services and private-sector organisations in banking, insurance and enterprise technology, including experience at **Openbank, Mapfre, ING and Santander-related environments**.
+
+My main technical activities include:
+
+- Linux and Unix-like systems administration, server operations, virtualisation and networking.
+- IT monitoring and observability with Grafana, PRTG, SNMP and related tooling.
+- System security, automation, middleware and application operations.
+- Software engineering, databases, data processing and infrastructure support.
+
+## Research interests
+
+Quantum key distribution · Complex networks · Graph algorithms · Network optimisation and robustness · Cybersecurity · Scientific computing · AI-supported information retrieval.
+
+## Publications
+
+The [publications page](/publications/) lists peer-reviewed articles, proceedings, book chapters and current research manuscripts, with DOI links where available.
+
+## Professional development
+
+**Linux Foundation Certified Engineer (LFCE)** and further training in computing, systems and security.
+
+*This is a concise online biography, not an official certified CVN or exhaustive employment record.*

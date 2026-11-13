@@ -1,6 +1,6 @@
-# Navigation for Iván García Cobo's professional website
+# Main navigation
 main:
-  - title: "Home"
+  - title: "About"
     url: /
   - title: "Research"
     url: /research/

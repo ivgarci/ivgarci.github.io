@@ -1,68 +1,55 @@
 ---
-title: "Curriculum vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume/
 ---
 
-**Iván García Cobo** — Computer engineer, researcher, university lecturer and IT systems professional.
-
-**Email:** [ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es) · **Location:** Valladolid, Spain
-
-[ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [Public research code](https://github.com/ivgarci/qkd-net-tools)
+**Iván García Cobo** · Valladolid, Spain  
+[ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es) · [ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/)
 
 ## Education
 
-- **PhD in Computer Engineering**, Universidad de Salamanca, **2026**. *Sobresaliente cum laude*. Doctoral dissertation: *Generación y validación de redes QKD a gran escala bajo restricciones físicas y tecnológicas*. Supervisor: Ángel M. Martín del Rey.
-- **Máster Universitario en Seguridad Informática**, Universidad Internacional de La Rioja (**UNIR**), **2019**.
-- **Grado en Ingeniería Informática**, Universidad Internacional Isabel I de Castilla, **2017**.
-- **Higher Vocational Qualification in Computer Systems Administration**.
+- **PhD in Computer Engineering** — University of Salamanca, 2026 (*cum laude*).
+- **Master's in Information Security** — International University of La Rioja (UNIR), 2019.
+- **Bachelor's in Computer Engineering** — Isabel I University, 2017.
+- **Higher Vocational Diploma in Computer Systems Administration**.
 
 ## Current positions
 
-**Universidad de Valladolid (UVa)**
+**University of Valladolid (UVa)**
 
-- **Técnico de Gestión de Sistemas e Informática**, Servicio de Tecnologías de la Información y las Comunicaciones (**STIC**), **May 2026–present**. Corporate Linux and application infrastructure, servers, monitoring, networking, web services, automation and security.
-- **Profesor Asociado**, Departamento de Informática (area of **Ciencia de la Computación e Inteligencia Artificial**), **October 2020–present**. Undergraduate teaching in computing, networks and software systems.
+- **IT Systems Management Specialist**, IT Services (STIC), since 2026.
+- **Part-time Lecturer**, Department of Computer Science, Computer Science and Artificial Intelligence, since 2020.
 
-Since May 2026 I have also served as an **elected representative of adjunct lecturers** on the UVa Department of Computer Science Council.
+I also serve as an elected representative of part-time lecturers on the department council.
 
-## Previous technical experience
+## Previous experience
 
-| Period | Organisation | Role |
+| Years | Organisation | Position |
 | --- | --- | --- |
-| 2020–2026 | Mobile Lean S.L. | DevOps Engineer |
-| 2019–2020 | Orbe Digital S.L.U. | Deployment Engineer |
-| 2018–2019 | Brooktec S.L. | Systems / Engineering Analyst |
-| 2017–2018 | Telefónica I+D (via Full ON-Net) | Support Engineer |
-| 2017 | Hemasoft Technologies S.L. | Support and Deployment Engineer |
-| 2016–2017 | Telefónica (via AirOn) | GVP/CDN Services Engineer |
+| 2020–2026 | Mobile Lean | DevOps Engineer |
+| 2019–2020 | Orbe Digital | Deployment Engineer |
+| 2018–2019 | Brooktec | Engineering Analyst |
+| 2017–2018 | Telefónica R&D (via Full ON-Net) | Support Engineer |
+| 2017 | Hemasoft Technologies | Support and Deployment Engineer |
+| 2016–2017 | Telefónica (via AirOn) | CDN/Voice Services Engineer |
 
-Earlier experience also spans the banking and insurance sectors, including **Openbank, Nationale-Nederlanden and MAPFRE**.
+Earlier work also includes **Openbank, Nationale-Nederlanden and MAPFRE**.
 
-## Teaching experience
+## Academic activity
 
-My university teaching includes the **Universidad de Valladolid**, **Universidad Alfonso X el Sabio** and **Universidad Isabel I**, across undergraduate and master's programmes in software development, systems, networking, cloud infrastructure and cybersecurity.
+I have taught at the **University of Valladolid**, **Alfonso X el Sabio University** and **Isabel I University**, covering software development, systems, networking and cybersecurity.
 
-I have undertaken teaching coordination responsibilities and supervised student projects concerning **urban air-quality monitoring, Linux security assessment and DevSecOps pipelines**.
+My research concerns **QKD networks, complex-network analysis and resilience**. I have also supervised student projects and undertaken teaching coordination.
 
-[Teaching details](/teaching/)
+[Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/)
 
-## Research and publications
+## Technical expertise
 
-My research is centred on QKD network design, topology optimisation, complex-network analysis, resilience and physically constrained communications.
+Linux and Windows systems · DevOps · Virtualisation · Networking · Monitoring (Grafana, PRTG, Kibana) · Python · Cybersecurity.
 
-I am affiliated with academic research activity at the **Universidad de Salamanca**, including the **GIR de Modelización Matemática en Ciencia y Tecnología**, as recorded in my CVN.
+**Certification:** Linux Foundation Certified Engineer (LFCE).
 
-[Peer-reviewed publications](/publications/) · [Research topics](/research/)
-
-## Professional certification
-
-**Linux Foundation Certified Engineer (LFCE)**, issued by The Linux Foundation in 2017.
-
-## Technical skills
-
-Linux/Unix · Windows systems · DevOps · Virtualisation · Networking · Observability (Grafana, PRTG, Kibana) · Python · Databases · Systems automation · Cybersecurity · Scientific programming.
-
-*Concise public CV based on my FECYT CVN (13 November 2026). Personal identification numbers, home address, personal telephone numbers and other sensitive data are intentionally omitted.*
+*Concise public CV; sensitive personal data are intentionally excluded.*

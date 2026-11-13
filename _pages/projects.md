@@ -1,29 +1,26 @@
 ---
-title: "Projects & software"
+title: "Projects & Software"
 permalink: /projects/
 author_profile: true
 ---
 
-## Public research software
+## Public research code
 
-### [qkd-net-tools — QKD Network Analysis Toolkit](https://github.com/ivgarci/qkd-net-tools)
+### [qkd-net-tools](https://github.com/ivgarci/qkd-net-tools)
 
-This is the main **public source-code repository** supporting my doctoral research. It combines Python and R implementations and datasets relating to:
+A Python and R toolkit supporting my research on **large-scale QKD networks**, including:
 
-- Generation of geographically realistic QKD network topologies.
-- Graph analysis, community detection and structural metrics.
-- Robustness analysis under failures and targeted attacks.
-- QKD secret-key-rate modelling and routing experiments.
-- Case studies covering Castilla y León, mainland Spain and ADIF-derived railway graphs.
+- Network generation and graph analysis.
+- Community detection and resilience testing.
+- Secret-key-rate modelling and routing.
+- Territorial and railway-derived case studies.
 
-The code evaluates network models and design scenarios. It does not imply the existence of a deployed national QKD network or operational availability of dark fibre.
+The repository contains **research models and simulations**, not a production QKD deployment.
 
-[Browse code and documentation](https://github.com/ivgarci/qkd-net-tools)
+[Explore the code](https://github.com/ivgarci/qkd-net-tools)
 
-## Additional interests
+## Other interests
 
-My professional and research interests also include Linux and enterprise systems, monitoring and observability, cybersecurity, software engineering, scientific computing and AI-supported information retrieval.
+Linux systems, DevOps, cybersecurity, monitoring, scientific computing and AI-assisted information retrieval.
 
-I participate in the **preparation of interdisciplinary research proposals** involving multilingual corpora and information retrieval, as well as urban air-quality and exposure analysis. These activities are described as proposals and **not** as awarded or funded projects.
-
-For work involving unreleased software or private research data, I provide descriptions only, not links to inaccessible repositories.
+I am also contributing to **research proposals** on multilingual information retrieval and urban air-quality modelling. These are proposals, not confirmed funded projects.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Iván García Cobo — PhD, QKD researcher, university lecturer and IT systems engineer at Universidad de Valladolid."
+excerpt: "Iván García Cobo — PhD, QKD researcher, university lecturer and systems engineer."
 author_profile: true
 redirect_from:
   - /about/
@@ -9,31 +9,22 @@ redirect_from:
 
 # Iván García Cobo
 
-**PhD in Computer Engineering · QKD Network Researcher · University Lecturer · Systems Engineer**
+**PhD in Computer Engineering · QKD Researcher · University Lecturer · Systems Engineer**
 
-I am a computer engineer based in Valladolid, Spain. My professional interests bring together three complementary fields: **quantum-secure networking research**, **university teaching** and **IT infrastructure engineering**.
+I combine research in **quantum-secure communication networks** with university teaching and professional experience in IT infrastructure.
 
-I earned my **PhD in Computer Engineering at the Universidad de Salamanca in 2026** (*Sobresaliente cum laude*). My dissertation, supervised by **Ángel M. Martín del Rey**, examines the generation, analysis and structural validation of large-scale **Quantum Key Distribution (QKD)** networks under physical and technological constraints.
+I hold a **PhD in Computer Engineering** from the University of Salamanca (*cum laude*). My research focuses on large-scale Quantum Key Distribution (QKD) networks, their design and resilience.
 
-At the **Universidad de Valladolid (UVa)** I hold two positions:
+At the **University of Valladolid (UVa)**, I work as a **part-time lecturer** in Computer Science and Artificial Intelligence and as an **IT Systems Management Specialist** in the university's IT Services (STIC).
 
-- **Profesor Asociado** (part-time university lecturer) in the **Departamento de Informática**, area of **Ciencia de la Computación e Inteligencia Artificial**, since 2020.
-- **Técnico de Gestión de Sistemas e Informática** at the **Servicio de Tecnologías de la Información y las Comunicaciones (STIC)**, since May 2026.
-
-My previous career includes DevOps, systems engineering, telecommunications and enterprise technology, with experience in banking and insurance as well as projects related to Telefónica.
+Previously, I worked in DevOps, telecommunications and enterprise systems, including projects in the financial and insurance sectors.
 
 ## Explore
 
-- [Research](/research/) — QKD network design, complex networks, resilience and routing.
-- [Publications](/publications/) — peer-reviewed journal papers and book chapters, with DOI links.
-- [Teaching](/teaching/) — university courses and supervised student projects.
-- [Projects](/projects/) — publicly available research code and selected interests.
-- [Curriculum vitae](/cv/) — education, university appointments and professional experience.
+[Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/) · [Projects](/projects/) · [CV](/cv/)
 
-## Contact and profiles
+## Contact
 
-**Email:** [ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es)
+[ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es) · [ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci)
 
-[ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci)
-
-*This is an independent personal website. Institutional affiliations are provided for identification and do not imply institutional endorsement.*
+*Personal website; institutional affiliations do not imply institutional endorsement.*

@@ -4,43 +4,35 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have taught undergraduate and master's courses in software engineering, computer architecture, systems administration, networks, cloud services and cybersecurity.
+I teach computing and cybersecurity at undergraduate and master's level, with an emphasis on practical engineering.
 
-## Universidad de Valladolid (UVa)
+## University of Valladolid (UVa)
 
-**Profesor Asociado, Departamento de Informática (since 2020)**
+**Part-time Lecturer, Department of Computer Science · Since 2020**
 
-| Academic year | Courses |
-| --- | --- |
-| 2026–27 | Desarrollo basado en componentes y servicios |
-| 2025–26 | Desarrollo basado en componentes y servicios; Fundamentos de redes de computadoras |
-| 2024–25 | Desarrollo basado en componentes y servicios |
-| 2023–24 | Administración de sistemas operativos; Sistemas distribuidos; Tecnologías web (Segovia campus) |
-| 2022–23 | Comercio electrónico; Informática aplicada a la gestión comercial I |
-| 2021–22 | Arquitectura de redes y servicios; Arquitectura y organización de computadoras; Sistemas empotrados |
-| 2020–21 | Arquitectura y organización de computadoras; Fundamentos de computadoras; Sistemas empotrados |
+Subjects taught include:
 
-In practical sessions, I use hands-on activities in software architecture and data persistence, including **PostgreSQL and SQLAlchemy**.
+- **Software:** Component-Based and Service-Oriented Development; Web Technologies; E-Commerce; Business IT Applications.
+- **Systems:** Computer Architecture and Organisation; Computer Fundamentals; Operating Systems Administration; Distributed Systems; Embedded Systems.
+- **Networks:** Fundamentals of Computer Networks; Network and Service Architectures.
 
-## Universidad Alfonso X el Sabio (UAX)
+Practical work includes application persistence with **PostgreSQL and SQLAlchemy**.
 
-Teaching in 2024 and 2025 included:
+## Alfonso X el Sabio University (UAX)
 
-- Seguridad en redes de comunicaciones (Master's in Cybersecurity).
-- Análisis de riesgos (Master's in Cybersecurity).
-- Criptografía y Seguridad (Degree in Computing and Artificial Intelligence).
-- Infraestructuras y Servicios en la Nube (Degree in Computing and Artificial Intelligence).
+Subjects taught in cybersecurity and computing programmes:
 
-I have also undertaken **course-coordination responsibilities** in cybersecurity, networking and cloud-related subjects.
+- Network Security
+- Risk Analysis
+- Cryptography and Security
+- Cloud Infrastructure and Services
 
-## Universidad Isabel I
+I have also held course-coordination responsibilities.
 
-- **Ciberseguridad Social e Industrial**, Master's in Cybersecurity (2021–22).
+## Isabel I University
 
-## Supervision of student projects
+- Social and Industrial Cybersecurity (Master's programme).
 
-- **2026, UVa:** IoT platform for monitoring urban air quality.
-- **2025, UAX:** Security analysis of a corporate Linux environment using penetration-testing methods.
-- **2025, UAX:** Design and implementation of an open-source DevSecOps pipeline.
+## Project supervision
 
-Student names and personal contact details are intentionally omitted from this website.
+Supervised projects include **IoT-based urban air-quality monitoring**, **Linux security assessment** and **open-source DevSecOps pipelines**.

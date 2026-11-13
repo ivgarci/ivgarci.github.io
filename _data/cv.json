@@ -4,7 +4,7 @@
     "email": "ivan.garcia.cobo@uva.es",
     "website": "https://ivangarciacobo.com",
     "label": "PhD | QKD network researcher | University lecturer | IT systems engineer",
-    "summary": "PhD in Computer Engineering (Universidad de Salamanca, 2026), university lecturer and IT systems professional at Universidad de Valladolid.",
+    "summary": "PhD in Computer Engineering, QKD researcher, part-time lecturer and systems engineer at the University of Valladolid.",
     "location": {
       "city": "Valladolid",
       "countryCode": "ES"
@@ -30,13 +30,13 @@
   "work": [
     {
       "name": "Universidad de Valladolid",
-      "position": "Técnico de Gestión de Sistemas e Informática (STIC)",
+      "position": "IT Systems Management Specialist (STIC)",
       "startDate": "2026-05-05",
       "summary": "Linux and enterprise systems, IT operations, infrastructure monitoring, automation and security."
     },
     {
       "name": "Universidad de Valladolid",
-      "position": "Profesor Asociado — Departamento de Informática",
+      "position": "Part-time Lecturer — Department of Computer Science",
       "startDate": "2020-10-01",
       "summary": "University teaching in Computer Science and Artificial Intelligence."
     },
@@ -80,19 +80,19 @@
   "education": [
     {
       "institution": "Universidad de Salamanca",
-      "area": "Ingeniería Informática",
+      "area": "Computer Engineering",
       "studyType": "PhD",
       "endDate": "2026-11-05"
     },
     {
       "institution": "Universidad Internacional de La Rioja",
-      "area": "Seguridad Informática",
+      "area": "Information Security",
       "studyType": "Official Master's degree",
       "endDate": "2019-10-02"
     },
     {
       "institution": "Universidad Internacional Isabel I de Castilla",
-      "area": "Ingeniería Informática",
+      "area": "Computer Engineering",
       "studyType": "Bachelor's degree",
       "endDate": "2017-09-19"
     }

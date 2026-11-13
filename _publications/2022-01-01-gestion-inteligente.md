@@ -1,14 +1,19 @@
 ---
-title: "Gestión inteligente de red cuántica"
+title: "Gestión inteligente de red cuántica / Intelligent quantum network management"
 collection: publications
-category: conferences
+category: chapters
 date: 2022-01-01
-venue: "Proceedings of the IV Workshop on Disruptive Information and Communication Technologies for Innovation and Digital Transformation, pp. 105–116"
-excerpt: "Co-authored with Ángel Martín del Rey. Presents a network-management approach to increase quantum-network robustness and adaptability."
-paperurl: "https://portaldelaciencia.uva.es/documentos/626b6d0bfb0f086e3329e725"
+year: 2022
+authors: "Iván García Cobo and Ángel María Martín del Rey"
+venue: "Proceedings of the IV Workshop on Disruptive Information and Communication Technologies for Innovation and Digital Transformation, pp. 105–116. Ediciones Universidad de Salamanca"
+doi: "10.14201/0AQ0315105116"
+paperurl: "https://doi.org/10.14201/0AQ0315105116"
+excerpt: "Book chapter on approaches to intelligent management of quantum networks."
+permalink: /publication/gestion-inteligente-red-cuantica/
 ---
-Co-authored with Ángel Martín del Rey. Presents a network-management approach to increase quantum-network robustness and adaptability.
 
-**Publication:** Proceedings of the IV Workshop on Disruptive Information and Communication Technologies for Innovation and Digital Transformation, pp. 105–116 (2022).
+**Iván García Cobo and Ángel María Martín del Rey** (2022). *Gestión inteligente de red cuántica / Intelligent quantum network management*. Proceedings of the IV Workshop on Disruptive Information and Communication Technologies for Innovation and Digital Transformation, pp. 105–116. Ediciones Universidad de Salamanca.
 
-[Publisher, DOI or official record](https://portaldelaciencia.uva.es/documentos/626b6d0bfb0f086e3329e725)
+[DOI: 10.14201/0AQ0315105116](https://doi.org/10.14201/0AQ0315105116)
+
+Book chapter on approaches to intelligent management of quantum networks.

@@ -1,14 +1,19 @@
 ---
-title: "Emergent Administrative Alignment of QKD Network Communities: A Governance Framework for Phased EuroQCI Deployment"
+title: "Emergent administrative alignment of QKD network communities: A governance framework for phased EuroQCI deployment"
 collection: publications
-category: manuscripts
-date: 2026-11-01
-venue: "Computer Networks (online 2026; issue listed for 2027)"
-excerpt: "Study of emergent alignment between QKD graph communities and administrative divisions, and its implications for phased EuroQCI governance."
+category: journals
+date: 2026-11-09
+year: 2026
+authors: "Iván García Cobo"
+venue: "Computer Networks, 292"
+doi: "10.1016/j.comnet.2026.112903"
 paperurl: "https://doi.org/10.1016/j.comnet.2026.112903"
+excerpt: "Explores QKD network community structure, its relationship to administrative geography, and governance implications for phased EuroQCI planning."
+permalink: /publication/euroqci-community-alignment/
 ---
-Study of emergent alignment between QKD graph communities and administrative divisions, and its implications for phased EuroQCI governance.
 
-**Publication:** Computer Networks (online 2026; issue listed for 2027) (2026).
+**Iván García Cobo** (2026). *Emergent administrative alignment of QKD network communities: A governance framework for phased EuroQCI deployment*. Computer Networks, 292.
 
-[Publisher, DOI or official record](https://doi.org/10.1016/j.comnet.2026.112903)
+[DOI: 10.1016/j.comnet.2026.112903](https://doi.org/10.1016/j.comnet.2026.112903)
+
+Explores QKD network community structure, its relationship to administrative geography, and governance implications for phased EuroQCI planning.

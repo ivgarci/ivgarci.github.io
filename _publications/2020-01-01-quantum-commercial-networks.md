@@ -1,14 +1,19 @@
 ---
-title: "Distribution of quantum keys over commercial networks"
+title: "Distribution of Quantum Keys over commercial networks"
 collection: publications
 category: chapters
-date: 2020-01-01
-venue: "The Role of Artificial Intelligence and Distributed Computing in IoT Applications, pp. 69–83"
-excerpt: "Book chapter proposing a QKD-oriented pilot study over a geographically extended optical-network setting."
+date: 2020-09-01
+year: 2020
+authors: "Iván García Cobo"
+venue: "The Role of Artificial Intelligence and Distributed Computing in IoT Applications, Aquilafuente 287, pp. 69–84. Ediciones Universidad de Salamanca"
+doi: "10.14201/0AQ02876983"
 paperurl: "https://doi.org/10.14201/0AQ02876983"
+excerpt: "Book chapter examining approaches to quantum key distribution across extended commercial-network scenarios."
+permalink: /publication/quantum-keys-commercial-networks/
 ---
-Book chapter proposing a QKD-oriented pilot study over a geographically extended optical-network setting.
 
-**Publication:** The Role of Artificial Intelligence and Distributed Computing in IoT Applications, pp. 69–83 (2020).
+**Iván García Cobo** (2020). *Distribution of Quantum Keys over commercial networks*. The Role of Artificial Intelligence and Distributed Computing in IoT Applications, Aquilafuente 287, pp. 69–84. Ediciones Universidad de Salamanca.
 
-[Publisher, DOI or official record](https://doi.org/10.14201/0AQ02876983)
+[DOI: 10.14201/0AQ02876983](https://doi.org/10.14201/0AQ02876983)
+
+Book chapter examining approaches to quantum key distribution across extended commercial-network scenarios.

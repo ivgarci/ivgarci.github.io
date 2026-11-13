@@ -1,41 +1,40 @@
-# ivangarciacobo.com — Iván García Cobo
+# ivangarciacobo.com
 
-Personal, academic and professional website of **Iván García Cobo**.
+Personal academic and professional website of **Iván García Cobo**.
 
-- **Live URL:** https://ivangarciacobo.com
-- **GitHub Pages repository:** https://github.com/ivgarci/ivgarci.github.io
-- **Framework:** Jekyll 4 + [Academic Pages](https://github.com/academicpages/academicpages.github.io), with upstream theme components refreshed in November 2026.
-- **Content language:** English.
+- Live site: https://ivangarciacobo.com
+- Primary contact: ivan.garcia.cobo@uva.es
+- Public research source code: https://github.com/ivgarci/qkd-net-tools
+- Framework: Jekyll with Academic Pages theme components
 
-## Structure
+## Editorial sources
 
-| Section | Source |
+Professional and academic biographical data are grounded in the author's **FECYT CVN dated 13 November 2026**. The public LinkedIn profile is used for supplemental public information such as LFCE certification. The website intentionally excludes identification numbers, birth date, private phones, and home address.
+
+The downloadable CVN PDF has **not** been uploaded to the site because it contains personal information.
+
+## Site files
+
+| Page | Source |
 | --- | --- |
-| Home / About | `_pages/about.md` |
+| About | `_pages/about.md` |
 | Research | `_pages/research.md` |
-| Publications | `_pages/publications.html` + `_publications/` |
+| Publications | `_pages/publications.html`, records in `_publications/` |
 | Teaching | `_pages/teaching.html` |
 | Projects | `_pages/projects.md` |
 | CV | `_pages/cv.md` |
-| Personal writing | `_pages/writing.md` |
+| Writing | `_pages/writing.md` |
 
-Site identity, author details, social links and theme are configured in `_config.yml`. Main navigation is in `_data/navigation.yml`.
+Settings: `_config.yml` and `_data/navigation.yml`. The machine-readable CV data in `_data/cv.json` are also kept aligned with the public profile.
 
-## Updating the site
+## Publications policy
 
-Edit the Markdown pages and collection records, commit to `master`, and review deployment in the **Actions** tab. The Pages workflow builds with Jekyll and deploys the result to GitHub Pages.
+Only records grounded in the FECYT CVN are included in the published bibliography. Research manuscripts are listed separately and never described as accepted or published without evidence. **Only public repositories are linked**; the main QKD code reference is `qkd-net-tools`.
 
-## Custom domain
+## Deployment
 
-The repository contains `CNAME` with `ivangarciacobo.com`; keep the matching DNS records configured at the domain registrar. Redirect `ivangarciacobo.es` to the canonical `.com` URL using the registrar's HTTPS redirect facility (outside this repository).
+The repository uses the **Deploy Academic Pages template site to Pages** GitHub Actions workflow. In Settings → Pages, the build source should be **GitHub Actions** to avoid a redundant failing branch-build workflow. The custom domain is `ivangarciacobo.com` (see `CNAME`). A 301 HTTPS redirect for `ivangarciacobo.es` must be configured separately at IONOS.
 
-## Editorial policy
+## Backup
 
-- Distinguish peer-reviewed publications, preprints and unpublished research manuscripts.
-- Include DOI or stable publisher links where available.
-- Describe geographically realistic QKD research models as *designs and simulations*, not as actually deployed infrastructure.
-- Do not publish sensitive university operational details, passwords, personal records or private project documents.
-
-## Backups
-
-A pre-refresh branch was created as `backup-before-academicpages-refresh-2026-11` before the template update.
+The state immediately before the CVN-driven review is preserved in branch `backup-before-cvn-review-2026-11-13`. The earlier pre-upstream backup is in `backup-before-academicpages-refresh-2026-11`.

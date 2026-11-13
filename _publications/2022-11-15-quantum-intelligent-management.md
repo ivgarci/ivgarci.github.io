@@ -1,14 +1,19 @@
 ---
 title: "Quantum Network Intelligent Management System"
 collection: publications
-category: manuscripts
+category: journals
 date: 2022-11-15
+year: 2022
+authors: "Iván García Cobo"
 venue: "Optics, 3(4), 430–437"
-excerpt: "Methods for resilient management and adaptation of quantum communication networks under structural disruptions."
+doi: "10.3390/opt3040036"
 paperurl: "https://doi.org/10.3390/opt3040036"
+excerpt: "Presents an intelligent-management approach to quantum network operation and structural resilience."
+permalink: /publication/quantum-network-intelligent-management/
 ---
-Methods for resilient management and adaptation of quantum communication networks under structural disruptions.
 
-**Publication:** Optics, 3(4), 430–437 (2022).
+**Iván García Cobo** (2022). *Quantum Network Intelligent Management System*. Optics, 3(4), 430–437.
 
-[Publisher, DOI or official record](https://doi.org/10.3390/opt3040036)
+[DOI: 10.3390/opt3040036](https://doi.org/10.3390/opt3040036)
+
+Presents an intelligent-management approach to quantum network operation and structural resilience.

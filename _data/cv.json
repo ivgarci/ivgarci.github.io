@@ -3,7 +3,8 @@
     "name": "Iván García Cobo",
     "email": "ivan.garcia.cobo@uva.es",
     "website": "https://ivangarciacobo.com",
-    "summary": "PhD in Computer Engineering (2026), adjunct lecturer and IT systems professional at Universidad de Valladolid. Researcher in QKD networks and graph-based robustness.",
+    "label": "PhD | QKD network researcher | University lecturer | IT systems engineer",
+    "summary": "PhD in Computer Engineering (Universidad de Salamanca, 2026), university lecturer and IT systems professional at Universidad de Valladolid.",
     "location": {
       "city": "Valladolid",
       "countryCode": "ES"
@@ -29,31 +30,71 @@
   "work": [
     {
       "name": "Universidad de Valladolid",
-      "position": "Adjunct Lecturer",
-      "summary": "Department of Computer Science; Computer Science and Artificial Intelligence."
+      "position": "Técnico de Gestión de Sistemas e Informática (STIC)",
+      "startDate": "2026-05-05",
+      "summary": "Linux and enterprise systems, IT operations, infrastructure monitoring, automation and security."
     },
     {
       "name": "Universidad de Valladolid",
-      "position": "IT Systems Professional",
-      "summary": "Information and Communication Technologies Service (STIC)."
+      "position": "Profesor Asociado — Departamento de Informática",
+      "startDate": "2020-10-01",
+      "summary": "University teaching in Computer Science and Artificial Intelligence."
+    },
+    {
+      "name": "Mobile Lean S.L.",
+      "position": "DevOps Engineer",
+      "startDate": "2020-03-16",
+      "endDate": "2026-04-28"
+    },
+    {
+      "name": "Orbe Digital S.L.U.",
+      "position": "Deployment Engineer",
+      "startDate": "2019-07-08",
+      "endDate": "2020-03-15"
+    },
+    {
+      "name": "Brooktec S.L.",
+      "position": "Engineering Analyst",
+      "startDate": "2018-09-17",
+      "endDate": "2019-07-10"
+    },
+    {
+      "name": "Telefónica I+D (via Full ON-Net)",
+      "position": "Support Engineer",
+      "startDate": "2017-08-07",
+      "endDate": "2018-09-19"
+    },
+    {
+      "name": "Hemasoft Technologies S.L.",
+      "position": "Support and Deployment Engineer",
+      "startDate": "2017-05-02",
+      "endDate": "2017-07-22"
+    },
+    {
+      "name": "Telefónica (via AirOn)",
+      "position": "GVP/CDN Services Engineer",
+      "startDate": "2016-01-11",
+      "endDate": "2017-04-24"
     }
   ],
   "education": [
     {
       "institution": "Universidad de Salamanca",
-      "area": "Computer Engineering",
+      "area": "Ingeniería Informática",
       "studyType": "PhD",
-      "endDate": "2026"
+      "endDate": "2026-11-05"
     },
     {
-      "institution": "",
-      "area": "Cybersecurity",
-      "studyType": "Master's degree"
+      "institution": "Universidad Internacional de La Rioja",
+      "area": "Seguridad Informática",
+      "studyType": "Official Master's degree",
+      "endDate": "2019-10-02"
     },
     {
-      "institution": "",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor's degree"
+      "institution": "Universidad Internacional Isabel I de Castilla",
+      "area": "Ingeniería Informática",
+      "studyType": "Bachelor's degree",
+      "endDate": "2017-09-19"
     }
   ],
   "skills": [
@@ -62,24 +103,67 @@
       "keywords": [
         "Quantum Key Distribution",
         "Complex networks",
-        "Graph algorithms",
-        "Resilience"
+        "Network resilience",
+        "Graph algorithms"
       ]
     },
     {
-      "name": "Systems",
+      "name": "Systems engineering",
       "keywords": [
         "Linux",
-        "SysAdmin",
+        "DevOps",
         "Grafana",
         "PRTG",
-        "Virtualization",
+        "Kibana",
+        "Python",
         "Cybersecurity"
       ]
     }
   ],
-  "publications": [],
-  "presentations": [],
-  "teaching": [],
-  "portfolio": []
+  "publications": [
+    {
+      "name": "Emergent administrative alignment of QKD network communities: A governance framework for phased EuroQCI deployment",
+      "publisher": "Computer Networks, 292",
+      "releaseDate": "2026-11-09",
+      "website": "https://doi.org/10.1016/j.comnet.2026.112903",
+      "summary": "Explores QKD network community structure, its relationship to administrative geography, and governance implications for phased EuroQCI planning."
+    },
+    {
+      "name": "Quantum Network Intelligent Management System",
+      "publisher": "Optics, 3(4), 430–437",
+      "releaseDate": "2022-11-15",
+      "website": "https://doi.org/10.3390/opt3040036",
+      "summary": "Presents an intelligent-management approach to quantum network operation and structural resilience."
+    },
+    {
+      "name": "Designing large quantum key distribution networks via medoid-based algorithms",
+      "publisher": "Future Generation Computer Systems, 115, 814–824",
+      "releaseDate": "2021-02-01",
+      "website": "https://doi.org/10.1016/j.future.2020.09.037",
+      "summary": "Investigates medoid-based methods for designing large-scale quantum key distribution network topologies."
+    },
+    {
+      "name": "Gestión inteligente de red cuántica / Intelligent quantum network management",
+      "publisher": "Proceedings of the IV Workshop on Disruptive Information and Communication Technologies for Innovation and Digital Transformation, pp. 105–116. Ediciones Universidad de Salamanca",
+      "releaseDate": "2022-01-01",
+      "website": "https://doi.org/10.14201/0AQ0315105116",
+      "summary": "Book chapter on approaches to intelligent management of quantum networks."
+    },
+    {
+      "name": "Distribution of Quantum Keys over commercial networks",
+      "publisher": "The Role of Artificial Intelligence and Distributed Computing in IoT Applications, Aquilafuente 287, pp. 69–84. Ediciones Universidad de Salamanca",
+      "releaseDate": "2020-09-01",
+      "website": "https://doi.org/10.14201/0AQ02876983",
+      "summary": "Book chapter examining approaches to quantum key distribution across extended commercial-network scenarios."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Linux Foundation Certified Engineer (LFCE)",
+      "issuer": "The Linux Foundation",
+      "date": "2017-10"
+    }
+  ],
+  "languages": [],
+  "references": []
 }

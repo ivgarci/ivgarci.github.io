@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "Iván García Cobo — PhD, QKD researcher, university lecturer and IT systems engineer at Universidad de Valladolid."
 author_profile: true
 redirect_from:

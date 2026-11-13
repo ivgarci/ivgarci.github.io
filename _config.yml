@@ -181,6 +181,16 @@ exclude:
   - _pages/talks.html
   - _pages/talkmap.html
   - _pages/portfolio.html
+  - CONTRIBUTING.md
+  - AGENTS.md
+  - docker-compose.yaml
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - markdown_generator
+  - scripts
+  - _data/comments
   - _pages/page-archive.html
   - _pages/category-archive.html
   - _pages/tag-archive.html

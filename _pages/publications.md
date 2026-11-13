@@ -50,4 +50,4 @@ The following are **not presented as published or accepted articles**:
 
 [ORCID](https://orcid.org/0000-0002-9472-5613) · **Scopus Author ID:** 57219474099 · **ResearcherID:** AAO-1736-2021
 
-For further bibliographic details, refer to my [UVa research profile](https://portaldelaciencia.uva.es/investigadores/2508769/detalle).
+For the most up-to-date bibliographic record, see my [ORCID profile](https://orcid.org/0000-0002-9472-5613).

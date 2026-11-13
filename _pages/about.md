@@ -34,6 +34,6 @@ My previous career includes DevOps, systems engineering, telecommunications and 
 
 **Email:** [ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es)
 
-[ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci) · [UVa research profile](https://portaldelaciencia.uva.es/investigadores/2508769/detalle)
+[ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci)
 
 *This is an independent personal website. Institutional affiliations are provided for identification and do not imply institutional endorsement.*

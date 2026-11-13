@@ -19,10 +19,6 @@ At the **University of Valladolid (UVa)**, I work as a **part-time lecturer** in
 
 Previously, I worked in DevOps, telecommunications and enterprise systems, including projects in the financial and insurance sectors.
 
-## Explore
-
-[Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/) · [Projects](/projects/) · [CV](/cv/)
-
 ## Contact
 
 [ivan.garcia.cobo@uva.es](mailto:ivan.garcia.cobo@uva.es) · [ORCID](https://orcid.org/0000-0002-9472-5613) · [LinkedIn](https://www.linkedin.com/in/garciacobo/) · [GitHub](https://github.com/ivgarci)

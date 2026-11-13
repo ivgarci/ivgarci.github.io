@@ -38,3 +38,11 @@ The repository uses the **Deploy Academic Pages template site to Pages** GitHub 
 ## Backup
 
 The state immediately before the CVN-driven review is preserved in branch `backup-before-cvn-review-2026-11-13`. The earlier pre-upstream backup is in `backup-before-academicpages-refresh-2026-11`.
+
+## Visual branding and publishing
+
+The IGC monogram is used in the SVG favicon, PNG icons and ICO file. The social preview is `images/og-image.png` (1200 × 630), and the profile image is `images/Ivan-Garcia-Cobo.jpg`.
+
+**GitHub Pages source:** under Settings → Pages, select **GitHub Actions**. This administrative setting cannot be changed by repository files; otherwise GitHub may run an additional legacy build which fails even when the Jekyll Action deployment is successful.
+
+The Writing page and its Amazon link remain unchanged.

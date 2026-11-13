@@ -19,8 +19,6 @@ My PhD at the **University of Salamanca (2026)** examined the generation and val
 
 These are **network models and design scenarios**, not claims of deployed QKD infrastructure.
 
-## Open-source research
+## Research software
 
-**[qkd-net-tools](https://github.com/ivgarci/qkd-net-tools)** provides the public Python and R code, datasets and analyses supporting the doctoral research.
-
-See [Publications](/publications/) for published work and current manuscripts.
+The public code and supporting datasets are described under [Projects & software](/projects/). See [Publications](/publications/) for published work and ongoing research.

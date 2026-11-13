@@ -12,6 +12,4 @@ Alongside engineering and research, I am interested in literature, local history
 
 A literary work exploring village life, memory and the experience of returning home in summer.
 
-**[Find the book on Amazon Spain](https://www.amazon.es/s?k=9788409894628&i=stripbooks)**
-
-*The Amazon link searches for the book by its ISBN.*
+**[Buy on Amazon Spain](https://www.amazon.es/El-pueblo-que-vuelve-agosto/dp/8409894629)**

@@ -1,15 +1,17 @@
 {
-	"name": "OOjs UI icon academic-progressive",
-	"icons": [
-		{
-			"src": "/images/favicon-192x192.png",
-			"sizes": "192x192",
-			"type": "image/png"
-		},
-		{
-			"src": "/images/favicon-512x512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		}
-	]
+  "name": "Iván García Cobo",
+  "short_name": "IGC",
+  "description": "Personal academic and professional website",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#102b49",
+  "icons": [
+    {
+      "src": "/images/favicon.svg?v=igc-20261113",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
